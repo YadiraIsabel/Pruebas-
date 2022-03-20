@@ -1,0 +1,69 @@
+composer require livewire/livewire
+laravel new Seguimiento_Egresados
+laravel new SeguimientoEgresados
+composer require livewire/laravel
+composer require laravel/livewire
+composer required lravel
+composer
+composer global require laravel/installer
+laravel new SeguimientoEgresados --jet
+cd SeguimientoEgresados\
+git init 
+git status
+git add.
+git config --global user.email yadira.iec.10@gmail.com
+git config --global user.email l19450664@itz.edu.mx
+git config --global user.name YadiraIsabel
+git commit -m "se agrega el proyecto "
+git branch -m main
+git remote add origin https://github.com/YadiraIsabel/EgresadosProecto.git
+git branch -M main
+git push -u origin main
+laravel new SeguimientoEgresados --jet
+git init 
+git status
+git add.
+git config --global user.email yadira.iec.10@gmail.com
+git config --global user.email l19450664@itz.edu.mx
+git config --global user.name YadiraIsabel
+git commit -m "se agrega el proyecto "
+git branch -m main
+git remote add origin https://github.com/YadiraIsabel/EgresadosProecto.git
+git branch -M main
+git push -u origin main
+mysql
+php artisan make:migration create_egresados_table
+php make:model Egresado
+php artisan +make:model Egresado
+php artisan make:model Egresado
+php artisan migrat:fresh
+
+php artisan make:model Domicilio -m 
+php artisan make:model Respuesta
+php artisan make:model Pregunta -m
+php artisan make:model Categoria -m
+php artisan make:migration create_preguntas_table
+php artisan make:migration create_respuestas_table
+php artisan migrate:fresh
+cd
+cd..
+git init
+cd s
+cd SeguimientoEgresados\
+php artisan make:migration create_egresado_respuesta_table
+php artisan migrate
+git init
+git add .md
+git add .
+git commit -m "First commt"
+git branch -M main
+git remote add origin https://github.com/YadiraIsabel/EgresadosProecto.git
+git push -u origin main
+npm install
+npm run dev
+php artisan migration:refresh
+php artisan migrate:refresh
+php artisan migration:refresh
+git pul
+git pull
+php artisan migrate:refresh
